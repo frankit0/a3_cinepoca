@@ -1,0 +1,15 @@
+Cinepoca
+
+- app de cinema(compra de ingressos, reserva de lugares, venda de combos, etc...)
+
+
+- matriz mostrar lugares;
+- salas, horarios e filmes disponiveis;
+- conveniencia (consumiveis);
+- venda e desistencia de ingressos;
+- tipos de sala (2d, 3d e imax);
+- sistema de pagamento (cinecred);
+- cupons, meia entrada e desc funci;
+- banco de dados (mySQL);
+
+- documentar tudo;
